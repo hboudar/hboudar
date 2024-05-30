@@ -32,15 +32,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## 🌍 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) _(Add your LinkedIn profile link)_
-- [Twitter](https://twitter.com/yourhandle) _(Add your Twitter handle)_
-- [Email](mailto:your.email@example.com)
-
-Feel free to reach out if you have any questions or just want to connect!
-
-## 📣 How to Contact Me
-
-_will be added soon..._
+  _will be added soon..._
 
 <!--
 **Cloneg7/Cloneg7** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
