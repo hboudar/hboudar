@@ -30,10 +30,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Cloneg7&theme=darkhub&no-frame=true&no-bg=true&column=7)
-
 ## 🌍 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile) _(Add your LinkedIn profile link)_
