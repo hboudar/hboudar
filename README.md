@@ -7,6 +7,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## About Me
 
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
+
+    [![ael-hadd's 42 stats](https://badge.mediaplus.ma/darkblue/ael-hadd)](https://profile.intra.42.fr/users/hboudar)
+
 - 💻 **Languages:** C, Bash (currently learning Python)
 - 🌱 **Interests:** Cybersecurity, Artificial Intelligence, Backend Development
 - 📜 **Certification:** "I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills. I have completed several projects up to 'minishell,' marking nearly halfway through the core program."
