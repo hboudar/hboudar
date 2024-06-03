@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 
 <div align="center">
-  <img src=![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&hide_border=false) />
+  src=![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&hide_border=false)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
