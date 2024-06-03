@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 </div>
 
 ## 🔥 Contributions
-    ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&hide_border=false)  
+  ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&hide_border=false)  
 
 ## 🌍 Connect with Me
 
