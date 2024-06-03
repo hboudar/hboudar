@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## About Me
 
-[![ael-hadd's 42 stats](https://badge.mediaplus.ma/darkgreen/hboudar)](https://profile.intra.42.fr/users/hboudar)
+[![ael-hadd's 42 stats](https://badge.mediaplus.ma/dark/hboudar)](https://profile.intra.42.fr/users/hboudar)
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
 - 💻 **Languages:** C, Bash (currently learning Python)
 - 🌱 **Interests:** Cybersecurity, Artificial Intelligence, Backend Development
