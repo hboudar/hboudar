@@ -53,6 +53,3 @@ You can click the Preview link to take a look at your changes.
 
 [![latest tweet](https://gtce.itsvg.in/api?username=Cloneg7)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
-### 🔝 Top Contributed Repo
-
-![contributions](https://github-contributor-stats.vercel.app/api?username=Cloneg7&limit=5&theme=monokai&combine_all_yearly_contributions=true)
