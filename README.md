@@ -39,3 +39,20 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 **Cloneg7/Cloneg7** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
+
+
+------------------------
+
+![commit_stats](https://github-readme-stats.vercel.app/api?username=Cloneg7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+
+![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&hide_border=false)  
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloneg7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- ## 🐦 Latest Tweet
+
+[![latest tweet](https://gtce.itsvg.in/api?username=Cloneg7)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+
+### 🔝 Top Contributed Repo
+
+![contributions](https://github-contributor-stats.vercel.app/api?username=4reha&limit=5&theme=monokai&combine_all_yearly_contributions=true)
