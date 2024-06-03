@@ -43,8 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 ------------------------
 
-![commit_stats](https://github-readme-stats.vercel.app/api?username=Cloneg7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-
 ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&hide_border=false)  
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloneg7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
