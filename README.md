@@ -49,7 +49,4 @@ You can click the Preview link to take a look at your changes.
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloneg7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ## 🐦 Latest Tweet
-
-[![latest tweet](https://gtce.itsvg.in/api?username=Cloneg7)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
