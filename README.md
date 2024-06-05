@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Cloneg7&color=blue&style=flat-square)
-
 ## About Me
 
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/hboudar)](https://profile.intra.42.fr/users/hboudar)
