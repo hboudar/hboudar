@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
   _will be added soon...._
 
-##my site : [View the Site](https://hboudar.github.io/the-site/)
 <!--
 **Cloneg7/Cloneg7** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
