@@ -19,12 +19,12 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cloneg7&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Cloneg7&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hboudar&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hboudar&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="GitHub Stats" />
 </div>
 
 ## 🔥 Contributions
-  ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=Cloneg7&theme=dark&hide_border=false)  
+  ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=hboudar&theme=dark&hide_border=false)  
 
 ## 🌍 Connect with Me
 
