@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 💻 **Languages:** C, Bash (currently learning Python)
 - 🌱 **Interests:** Cybersecurity, Artificial Intelligence, Backend Development
 - 📜 **Certification:** "I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills. I have completed several projects up to 'minishell,' marking nearly halfway through the core program."
-- 🌐 **Website:** [My Portfolio](https://yourportfolio.com) _(Add your personal website or portfolio if you have one)_
+- 🌐 **Website:** ~will be added soon~
 
 ## 🛠️ Tech Stack
 
