@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## 🌍 Connect with Me
 
-  _will be added soon...._
+  ~_will be added soon...._~
 
 <!--
 **Cloneg7/Cloneg7** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
