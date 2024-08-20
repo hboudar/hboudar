@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## About Me
 
-[![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/hboudar)](https://profile.intra.42.fr/users/hboudar)
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
 - 💻 **Languages:** C, Bash (currently learning Python)
 - 🌱 **Interests:** Cybersecurity, Artificial Intelligence, Backend Development
@@ -33,6 +32,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 <!--
 **hboudar/hboudar** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/hboudar)](https://profile.intra.42.fr/users/hboudar)
 -->
 
 
