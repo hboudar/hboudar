@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## About Me
 
-- 🎓 **Student at
-
+- 🎓 **Student at**
 
 [![hboudar's 42 stats](https://badge.mediaplus.ma/greenbinary/hboudar)](https://github.com/oakoudad/badge42)
 - 💻 **Languages:** C, Bash (currently learning Python)
