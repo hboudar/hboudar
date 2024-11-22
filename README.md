@@ -7,12 +7,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 🎓 **Student at**
 
 [![hboudar's 42 stats](https://badge.mediaplus.ma/binary/hboudar)](https://github.com/oakoudad/badge42)
-- 💻 **Languages:** C, Bash (currently learning Python)
-- 🌱 **Interests:** Cybersecurity, Artificial Intelligence, Backend Development
-- 📜 **Certification:** "I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills. I have completed several projects up to 'minishell,' marking nearly halfway through the core program."
-- 🌐 **Website:** ~will be added soon...~
 
-## 🛠️ Tech Stack
+- 🌱 **Interests:** Cybersecurity, Artificial Intelligence, Backend Development
+- 📜 **Certification:** "I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills.
 
 - **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
