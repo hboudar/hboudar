@@ -1,6 +1,4 @@
-/*# Hi there! 👋*/
-
-//hi
+# Hi there! 👋
 
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
@@ -22,4 +20,3 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## 🔥 Contributions
   ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=hboudar&theme=dark&hide_border=false)  
-
