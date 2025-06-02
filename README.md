@@ -1,16 +1,9 @@
-
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/hboudar">
-  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hboudar&show_icons=true&theme=gruvbox&card_width=250">
-</a>
-<a href="https://github.com/hboudar">
-  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hboudar&layout=compact&theme=gruvbox&card_width=250">
-</a>
-
-<h1 align="center">Hey 👋, I'm hboudar</h1>
 [![hboudar's 42 stats](https://badge.mediaplus.ma/binary/hboudar)](https://github.com/oakoudad/badge42)
 - **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+<h1 align="center">Hey 👋, I'm hboudar</h1>
 <p align="center">
   🧠 Systems Enthusiast · 🛠️ 42 Network Core · 🧩 Containerization & Automation
 </p>
