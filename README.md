@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Systemd-0078D4?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
----
 
 ---
 
