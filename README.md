@@ -13,3 +13,6 @@
 <a href="https://github.com/hboudar">
   <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hboudar&layout=compact&theme=gruvbox&card_width=250">
 </a>
+
+ ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hboudar&theme=rogue)
+![snake gif](https://github.com/hboudar/hboudar/blob/output/github-contribution-grid-snake.svg)
