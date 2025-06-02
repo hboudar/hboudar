@@ -6,17 +6,20 @@
 
 ---
 
-## 🔧 Tools & Technologies
+## 🧠 Core Competencies & Focus Areas
 
-| 💻 Editors           | ⚙️ Build & Debug        | 📁 Source Control | 🐧 Shell & Scripts       |
-|---------------------|-------------------------|-------------------|--------------------------|
-| VS Code, Vim, VStudio | Make, CMake, GDB        | Git, GitHub       | Bash, Shell Scripting    |
+| 🧩 Systems Architecture     | ⚙️ Automation & CI/CD       | 🔐 Security & Isolation     |
+|-----------------------------|-----------------------------|-----------------------------|
+| Linux containerization, service orchestration | Shell scripting, GitHub Actions, Make/CMake | File system sandboxing, chroot, network namespaces |
 
-| 🤖 CI/CD            | 🧱 OS & Environment     |
-|---------------------|-------------------------|
-| GitHub Actions       | Linux, Docker Internals |
+| 📦 Infrastructure as Code | 🧵 Process & Memory Control | 📚 Debugging & Analysis     |
+|---------------------------|-----------------------------|-----------------------------|
+| Docker, init systems, service dependency trees | signals, fork/exec, scheduling, memory layout | GDB, strace, lsof, valgrind |
+
+> **Focus Cloud:** `containers` · `init systems` · `network isolation` · `signals & processes` · `linkers` · `build systems` · `automation` · `C memory model`
 
 ---
+
 
 ## 📊 GitHub Stats
 
