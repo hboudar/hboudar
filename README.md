@@ -16,7 +16,36 @@
 |---------------------------|-----------------------------|-----------------------------|
 | Docker, init systems, service dependency trees | signals, fork/exec, scheduling, memory layout | GDB, strace, lsof, valgrind |
 
-> **Focus Cloud:** `containers` · `init systems` · `network isolation` · `signals & processes` · `linkers` · `build systems` · `automation` · `C memory model`
+---
+
+## 🔧 Tools & Concepts
+
+<!-- Row 1: Core Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDB-306998?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-0696D7?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+<!-- Row 2: Concepts -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Processes%20%26%20Signals-555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Namespaces%20%7C%20Chroot-555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Memory%20Layout-555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build%20Systems-555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Debugging%20Tools-555?style=for-the-badge" />
+</p>
+
+<!-- Row 3: CI/CD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systemd-0078D4?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+---
 
 ---
 
