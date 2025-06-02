@@ -1,5 +1,3 @@
-## &#x1f4c8; GitHub Stats
-
 [![hboudar's 42 stats](https://badge.mediaplus.ma/binary/hboudar)](https://github.com/oakoudad/badge42)
 
 <p align="center">
@@ -28,11 +26,3 @@
 </div>
 
 ---
-
-## 🔥 Contribution Activity
-
-> ✅ These require public contribution data and correct repo setup. The snake may take a few minutes to appear after initial push.
-
-### 🐍 Contribution Snake
-```md
-![snake gif](https://github.com/hboudar/hboudar/blob/output/github-contribution-grid-snake.svg)
