@@ -1,10 +1,4 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile! I'm thrilled to have you here.
-
-## About Me
-
-- 🎓 **Student at**
+🎓 ***Student at***
 
 [![hboudar's 42 stats](https://badge.mediaplus.ma/binary/hboudar)](https://github.com/oakoudad/badge42)
 - **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
