@@ -1,53 +1,61 @@
 [![hboudar's 42 stats](https://badge.mediaplus.ma/binary/hboudar)](https://github.com/oakoudad/badge42)
 
+<h2 align="center">Hamza Boudar</h2>
+
 <p align="center">
-  🧠 Systems Enthusiast · 🛠️ 42 Network Core · 🧩 Containerization & Automation
+Backend-Focused Software Engineering Student · 42 Network (1337 / UM6P)
+</p>
+
+<p align="center">
+I build backend systems with a strong understanding of how things work under the hood — from Unix processes and memory to APIs, authentication, and databases.
 </p>
 
 ---
 
-## 🧠 Core Competencies & Focus Areas
+## 🧠 Focus Areas
 
-| 🧩 Systems Architecture     | ⚙️ Automation & CI/CD       | 🔐 Security & Isolation     |
-|-----------------------------|-----------------------------|-----------------------------|
-| Linux containerization, service orchestration | Shell scripting, GitHub Actions, Make/CMake | File system sandboxing, chroot, network namespaces |
-
-| 📦 Infrastructure as Code | 🧵 Process & Memory Control | 📚 Debugging & Analysis     |
-|---------------------------|-----------------------------|-----------------------------|
-| Docker, init systems, service dependency trees | signals, fork/exec, scheduling, memory layout | GDB, strace, lsof, valgrind |
+| Backend Engineering | Systems & Unix | Engineering Practices |
+|--------------------|---------------|-----------------------|
+| REST APIs, authentication, data modeling | Processes, signals, file descriptors, memory | Clean code, debugging, refactoring |
+| Node.js, Fastify, TypeScript | Linux / Unix environments | Git workflows, peer reviews |
 
 ---
 
-## 🔧 Tools & Concepts
+## 🚀 Featured Project
 
-<!-- Row 1: Core Tools -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDB-306998?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Makefile-0696D7?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
+### **Transcendence — Full-Stack Web Application**
+*42 Network core project*
 
-<!-- Row 2: Concepts -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Processes%20%26%20Signals-555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Namespaces%20%7C%20Chroot-555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Memory%20Layout-555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build%20Systems-555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Debugging%20Tools-555?style=for-the-badge" />
-</p>
+- Designed and implemented **backend APIs** using **Fastify + TypeScript**
+- Implemented **authentication flows** and protected routes
+- Modeled relational data using **SQLite**, ensuring data integrity
+- Applied **separation of concerns** (routes, services, data access)
+- Collaborated using Git-based workflows and code reviews
 
-<!-- Row 3: CI/CD -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systemd-0078D4?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
+> This project reflects my approach to backend development: clarity, correctness, and understanding system constraints.
 
 ---
 
+## 🔧 Tech Stack
+
+**Languages**  
+C · C++ · JavaScript (ES6+) · TypeScript · Shell (Bash)
+
+**Backend & Systems**  
+Node.js · Fastify · Express · REST APIs · SQLite · Nginx · Linux / Unix
+
+**Tooling**  
+Git · GitHub · CLI · Debugging tools (gdb, valgrind, strace)
+
+---
+
+## 🧩 42 Network Background
+
+- Peer-driven curriculum focused on **algorithms, system programming, and backend fundamentals**
+- Built multiple **Unix-based C projects** emphasizing memory management and process control
+- Strengthened problem-solving through strict evaluation and refactoring cycles
+
+---
 
 ## 📊 GitHub Stats
 
@@ -55,5 +63,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hboudar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hboudar&layout=compact&theme=radical"/>
 </div>
-
----
