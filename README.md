@@ -9,29 +9,6 @@ I enjoy building things that make sense under the hood — from Unix processes t
 
 ---
 
-## 🧠 What I’m Exploring
-
-| Backend | Systems | Habits |
-|---------|--------|-------|
-| REST APIs, authentication, data modeling | Processes, signals, memory | Clean code, debugging, refactoring |
-| Node.js, Fastify, TypeScript | Linux / Unix environments | Git workflows, code reviews |
-
----
-
-## 🚀 Highlight Project: **Transcendence**
-
-A full-stack project from 42 Network:
-
-- Built **Fastify + TypeScript backend APIs**
-- Handled **authentication flows & protected routes**
-- Modeled relational data with **SQLite**
-- Structured code with **separation of concerns**
-- Collaborated via **Git workflows & code reviews**
-
-> This project reflects how I think about backend development: clarity, correctness, and understanding system constraints.
-
----
-
 ## 🔧 My Stack
 
 **Languages:** C · C++ · JavaScript · TypeScript · Bash  
@@ -48,8 +25,5 @@ A full-stack project from 42 Network:
 </div>
 
 ---
-
-### ⚡ Fun Fact
-I’m always curious about **how things work under the hood**, whether it’s a Unix process, memory management, or an API request flow.  
 
 Feel free to **connect or check my projects** — I love sharing and collaborating on backend systems!
