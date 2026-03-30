@@ -12,8 +12,8 @@ I enjoy building things that make sense under the hood — from Unix processes t
 ## 🔧 My Stack
 
 **Languages:** C · C++ · JavaScript · TypeScript · Bash  
-**Backend & Systems:** Node.js · Fastify · Express · SQLite · Nginx · Linux  
-**Tools:** Git · CLI · Debuggers (gdb, valgrind, strace)
+**Backend & Systems:** Node.js · Fastify · Express · Next.js · Nest.js · SQLite · Nginx · Linux
+**Tools:** Git · CLI · Debuggers
 
 ---
 
