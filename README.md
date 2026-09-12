@@ -1,12 +1,12 @@
 <h2 align="center">Hey there, I’m Hamza Boudar 👋</h2>
 
 <p align="center">
-Software engineer / studied in @42 Network (1337 / <strong>UM6P</strong>)<br>  
+Software engineer / studied in @42 Network (1337 / <strong>UM6P</strong>)<br/>  
 <em> I enjoy building things that make sense under the hood — from Unix processes to APIs and databases.</em>
 </p>
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=hboudar&theme=vue&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=hboudar&theme=vue&hide_border=true) 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hboudar&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
