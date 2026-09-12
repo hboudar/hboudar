@@ -1,9 +1,7 @@
 <h2 align="center">Hey there, I’m Hamza Boudar 👋</h2>
 
-# 💫 About Me:
-
 <p align="center">
-Software engineer / studied in @42 Network (1337 / <strong>UM6P</strong>)  
+Software engineer / studied in @42 Network (1337 / <strong>UM6P</strong>)<br>  
 <em> I enjoy building things that make sense under the hood — from Unix processes to APIs and databases.</em>
 </p>
 
