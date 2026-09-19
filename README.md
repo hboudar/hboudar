@@ -2,8 +2,8 @@
 <h2>Hey there, I’m Hamza Boudar 👋</h2>
 
 <p>
-Software engineer / studied in @42 Network (1337 / <strong>UM6P</strong>)<br/>  
-<em> I enjoy building things that make sense under the hood — from Unix processes to APIs and databases.</em>
+Software Engineer Student / studied at <strong>42 Network</strong> (1337 / <strong>UM6P</strong>)<br/>
+<em>I enjoy understanding how things work under the hood — from Unix processes, APIs, and databases to frontend interfaces, design, and user experience.</em>
 </p>
 
 # 📊 GitHub Stats:
