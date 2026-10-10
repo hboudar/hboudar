@@ -2,7 +2,7 @@
 <h2>Hey there, I’m Hamza Boudar 👋</h2>
 
 <p>
-Software Engineer Student / studied at <strong>42 Network</strong> (1337 / <strong>UM6P</strong>)<br/>
+Software Engineer Student / I've been studying at <strong>42 Network</strong> (1337 / <strong>UM6P</strong>)<br/>
 <em>I enjoy understanding how things work under the hood — from Unix processes, APIs, and databases to frontend interfaces, design, and user experience.</em>
 </p>
 
